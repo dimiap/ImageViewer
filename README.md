@@ -1,4 +1,4 @@
-# imgViewer
+# ImageViewer
 An image viewer to show and edit pictures
 
 With this app you can show the pictures within the file you chose, you can rotate them, zoom into them, let them have a black and white
